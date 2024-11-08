@@ -27,29 +27,6 @@ The dataset used in this project contains health-related information about patie
 
 You can download the dataset from the [Kaggle Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database) or use the provided `diabetes.csv` file in this repository.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/diabetes-prediction.git
-   cd diabetes-prediction
-   ```
-
-2. **Create a Virtual Environment:**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use: venv\Scripts\activate
-   ```
-
-3. **Install Required Libraries:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Download the Dataset:**
-   Place the `diabetes.csv` dataset in the project directory.
 
 ## Usage
 
